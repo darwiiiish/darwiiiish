@@ -80,12 +80,5 @@ My work heavily revolves around leveraging data-driven approaches to solve compl
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darwiiiish&show_icons=true&theme=radical&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darwiiiish&layout=compact&theme=radical&hide_border=true&title_color=58A6FF&text_color=C9D1D9" height="165" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=darwiiiish&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile Views" />
 </div>
